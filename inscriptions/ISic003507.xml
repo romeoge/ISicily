@@ -174,7 +174,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP" source="https://www.zotero.org/groups/382445/items/JVCEV98D">
                 <ab>
-                    <lb n="1"/><persName type="divine"><name type="epithet"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></name></persName> βοήτι
+                    <lb n="1"/><persName type="divine"><name><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></name></persName> βοήτι
                     <lb n="2"/>τῆς <w><choice><orig>ὐκ</orig><reg>οἰκ</reg></choice><supplied reason="lost">ίας</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
