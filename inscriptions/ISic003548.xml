@@ -181,7 +181,7 @@
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="grc" resp="#GC">
                 <ab>
                     <lb n="1"/>θεοῖς πᾶσι
-                    <lb n="2"/><placeName type="ethonym">Δρεπαναί<supplied reason="lost">ων</supplied></placeName>
+                    <lb n="2"/><placeName type="ethnic">Δρεπαναί<supplied reason="lost">ων</supplied></placeName>
                     <lb n="3"/>πόλεως <choice><reg>σωτῆρσιν</reg><orig>σοτῆρσιν</orig></choice>
                     <lb n="4"/><choice><corr>τραπέζαν</corr><sic>ΠΡΑΠΕΤΑ</sic></choice> καὶ τὸν βωμὸν
                     <lb n="5"/><persName type="attested"><name><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></name> <name>Μάλιος</name></persName><gap reason="lost" unit="character" quantity="5"/>
