@@ -184,7 +184,7 @@
 	</listChange>
         </revisionDesc>
     </teiHeader>
-    <facsimile>
+    <facsimile><surface/><!--
         <surface type="front">
             <graphic n="screen" url="ISic003538_tiled.tif" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
@@ -192,30 +192,30 @@
             <graphic n="print" url="ISic003538.jpg" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
             </graphic>
-         </surface>
+         </surface>-->
     </facsimile>
     <text>
         <body>
-            <div type="edition" subtype="primary" xml:space="preserve">
+            <div type="edition" subtype="primary" xml:space="preserve" resp"#JP">
                 <ab>
                     <lb n="1"/>
                     <expan>
                         <abbr>Θε</abbr>
                         <ex>οῖς</ex>
                     </expan>
-                    ·
+                    <g ref="#interpunct">·</g>
                     <expan>
                         <abbr>Χθο</abbr>
                         <ex>νίοις</ex>
                     </expan>
-                    ·
-                    <lb n="2"/><persName type="attested"><name>Ἀλεξίων</name> · <name type="patronym">Ἰου
-                    <lb n="3" break="no"/>λίου</name> · <placeName type="ethnonym">Σεβαστεῦς</placeName></persName> ·
+                    <g ref="#interpunct">·</g>
+                    <lb n="2"/><persName type="attested"><name>Ἀλεξίων</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="patronym">Ἰου
+                    <lb n="3" break="no"/>λίου</name></persName> <g ref="#interpunct">·</g> <placeName type="ethnic">Σεβαστεῦς</placeName></persName> <g ref="#interpunct">·</g>
                     <lb n="4"/>ἐβίωσεν
-                    <lb n="5"/>ἔτη ·
-                    <hi rend="supraline">
+                    <lb n="5"/>ἔτη <g ref="#interpunct">·</g>
+                    <num atLeast="40" atMost="49"><hi rend="supraline">
                         <unclear>μ</unclear>
-                    </hi>
+                    </hi></num>
                     <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
