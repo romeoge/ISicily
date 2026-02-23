@@ -178,7 +178,7 @@
                     <lb n="1"/><persName type="attested"><name>Πετρονία</name></persName> <gap reason="lost" unit="character" quantity="7"/>
                     <lb n="2"/>ἔζησεν ἀμέμπτως καὶ σεμνῶς
                     <lb n="3"/>ἔτη <num value="12"><hi rend="supraline">ιβ</hi></num> μῆνας <num value="4"><hi rend="supraline">δ</hi></num> ἱμέρας <num value="4"><hi rend="supraline">δ</hi></num>
-                    <lb n="4"/><expan><abbr>Γ</abbr><ex>άϊος</ex></expan> <g ref="#interpunct">·</g> <persName type="attested"><name>Κορνήλιος</name></persName> πατὴρ
+                    <lb n="4"/><persName type="attested"><name type="praenomen"><expan><abbr>Γ</abbr><ex>άϊος</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Κορνήλιος</name></persName> πατὴρ
                     <lb n="5"/>εἰδίᾳ εἰδίᾳ <gap reason="lost" unit="character" quantity="5"/>
                 </ab>
             </div>
