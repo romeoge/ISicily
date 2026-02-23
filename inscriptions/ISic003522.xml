@@ -196,7 +196,7 @@
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
                     <lb n="1"/><persName type="attested"><name type="nomen"><w n="5">Κορνήλιος</w></name>
-                    <lb n="2"/><name type="cognomen"><w n="10">Μάγνος</w></name> <g ref="#interpunct" n="15">·</g> <placeName type="ethnonym"><w n="20">Ἀ
+                    <lb n="2"/><name type="cognomen"><w n="10">Μάγνος</w></name> <g ref="#interpunct" n="15">·</g> <placeName type="ethnic"><w n="20">Ἀ
                     <lb n="3" break="no"/>παμεὺς</w></placeName></persName> <g ref="#interpunct" n="25">·</g> <w n="30">ἰδί
                     <lb n="4" break="no"/>ῳ</w> <g ref="#interpunct" n="35">·</g> <w n="40">θρεπτῷ</w>
                     <lb n="5"/><persName type="attested"><name><w n="45">Ἐπαφρύδι</w></name></persName>
